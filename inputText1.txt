@@ -1,0 +1,26 @@
+11 24 U
+A C 8
+A D 11
+A B 21
+B H 32
+B C 31
+B F 33
+C D 3
+C E 65
+C F 41
+D E 30
+D I 35
+E F 16
+E G 21
+F H 22
+F G 35
+G H 22
+G I 20
+H I 19
+B J 18
+J F 32
+J C 16
+K J 27
+K D 30
+G K 31
+A
